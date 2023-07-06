@@ -22,7 +22,7 @@ This project is a simple dictionary application implemented in Python using the 
 - `Python` 
 - `Tkinter` 
 
-- **To Install `Python` use the below command:
+- To Install `Python` use the below command:
   
 ```shell
 sudo apt update
@@ -30,7 +30,7 @@ sudo apt install python3
 python3 --version
 ``` 
 
-- **To Install `Tkinter` use the below command:
+- To Install `Tkinter` use the below command:
   
 ```shell
 sudo apt-get install python3-tk
