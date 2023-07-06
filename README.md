@@ -34,11 +34,13 @@ python3 --version
   
 ```shell
 sudo apt-get install python3-tk
-
 ``` 
 ## Usage
 
 To run the application, simply run the `dictionary_app.py` script:
+```shell
+python3 dictionary_app.py
+``` 
 
 
 ## Dependencies
