@@ -2,6 +2,10 @@
 
 This project is a simple dictionary application implemented in Python using the Tkinter library for the GUI. The application allows you to add words to the dictionary, search for words, list all words in the dictionary, and save the dictionary to a JSON file.
 
+## Project Demo
+
+[Python_Dictionary.webm](https://github.com/abdulmalik-devs/python_dictionary_app/assets/62616273/510bf2c4-21c0-41af-a4a1-509be7203c79)
+
 ## Features
 
 - **Add Word**: This feature allows you to add a new word to the dictionary. You need to provide the word and its meaning.
@@ -50,5 +54,5 @@ This project uses the following Python libraries:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Author
-- *[AbduMalik Ololade](https://github.com/abdulmalik-devs) 
+- [AbduMalik Ololade](https://github.com/abdulmalik-devs) - (DevSecOps)
 
